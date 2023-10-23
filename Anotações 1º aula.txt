@@ -1,0 +1,11 @@
+Pesquisar sobre terminal burro.
+O que é XML? Formato texto.
+Comunicação "half duplex"(?!)
+XML guarda dados, html exibe os dados.
+
+Web Service
+
+Sistema utilizado em integrações e comunicações de arquiteturas iguais ou diferentes.
+Permite a intehraçã entre ambientes.
+Independe de linguagem de programação.
+Comunicação não se limita ao Sistema Operacional.

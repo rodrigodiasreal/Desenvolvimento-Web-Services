@@ -1,0 +1,15 @@
+Conceitos:
+
+WSDL (Web Services Dewscription language) - Documento com a resposta XML.
+
+JSON - Linguagem de marcação para descrição de documentos de forma auto contida. Baseada em Java Script.
+
+Conceitos Básicos:
+
+API - (Application Programming Interface)
+Interface de comunicação de programas - API são pedaços de programas que faz conexões independente de sistemas. 
+
+URI - Uniform Resource Identifier
+
+Unidade de identificação de algum recurso.
+
